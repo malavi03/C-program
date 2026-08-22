@@ -16,7 +16,7 @@ case 3:
 printf("Multiplication :%d",a*b);
 break;
 case 4:
-printf("Division :%d",a/b);
+printf("Division : %d",a/b);
 break;
 case 5:
 printf("Modolus :%d",a%b);
